@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @addywil
+- 👋 Hi, I’m Addy
 - 👀 I’m a high school student entering the field of computer science
 - 🌱 I’m currently learning Python, Javascript, and HTML/CSS
 
